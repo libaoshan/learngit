@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Creating a mew branch with no Fast forward.
-
+fix bug 101
